@@ -7,6 +7,7 @@ plugins {
 
 group = 'springChatbot'
 version = '0.0.1-SNAPSHOT'
+archivesBaseName = 'springChatbot'
 java {
     toolchain {
         languageVersion = JavaLanguageVersion.of(17)
